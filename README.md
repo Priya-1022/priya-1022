@@ -4,7 +4,7 @@
 <p align="center">
   
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&pause=1000&color=FF7C06D5&center=true&repeat=false&random=false&width=500&height=100&lines=Full+Stack+Web+Developer;Data+Analyst;DevOps+Enthusiats" alt="Typing SVG" /></a></p>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&pause=1000&color=FF7C06D5&center=true&repeat=false&random=false&width=500&height=100&lines=Full+Stack+Web+Developer;Data+Analyst;DevOps+Enthusiast" alt="Typing SVG" /></a></p>
 <p align="center">
 
   <!-- Social icons section -->
@@ -30,8 +30,10 @@
 <br/>
 
 
-<div align="center"><img src="https://github-stats-alpha.vercel.app/api?username=priya-1022&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
+### Languages:
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
 
 <br/>
 
