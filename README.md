@@ -1,10 +1,9 @@
 <p align="center">
-  <a href="https://github.com/priya-1022">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=22&duration=1&pause=1&color=06D5F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Priya+Keshari" alt="Typing SVG" /></a>
+  <a href="https://github.com/priya-1022"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=22&duration=1&pause=1&color=06D5F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Priya+Keshari" alt="Typing SVG" /></a>
 <p align="center">
   
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&pause=1000&color=FF7C06D5&center=true&repeat=false&random=false&width=500&height=100&lines=Full+Stack+Web+Developer;Data+Analyst;DevOps+Enthusiast" alt="Typing SVG" /></a></p>
+ <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&pause=1000&color=FF7C06D5&center=true&repeat=false&random=false&width=500&height=100&lines=Full+Stack+Web+Developer;Data+Analyst;DevOps+Enthusiast" alt="Typing SVG" /></a></p>
 <p align="center">
 
   <!-- Social icons section -->
@@ -34,9 +33,9 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=24&duration=1&pause=1000&color=F7F7F7&repeat=false&random=false&width=300&lines=Database%3A" alt="Database" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=24&duration=1&pause=1000&color=F7F7F7&repeat=false&random=false&width=300&lines=Database+%26+Tools%3A" alt="Typing SVG" /></a>
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=24&duration=1&pause=1000&color=F7F7F7&repeat=false&random=false&width=300&lines=Framework+%26+Library%3A" alt="Typing SVG" /></a>
 
