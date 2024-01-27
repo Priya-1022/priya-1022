@@ -18,7 +18,7 @@
  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/keshari.priya.1010/"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.kaggle.com/"><img width="32px" alt="Kaggle" title="Kaggle" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-64.png"/></a>
+  <a href="https://www.kaggle.com/priyakeshari10"><img width="32px" alt="Kaggle" title="Kaggle" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-64.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:kesharipriya680@gmail.com"><img width="32px" alt="Gmail" title="G-mail" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png"/></a>
   
